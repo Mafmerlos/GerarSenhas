@@ -1,0 +1,25 @@
+Primeiro Projeto: Senhas Aleatórias
+ 	Para iniciar o desenvolvimento deste projeto, organizei as etapas necessárias para criar um programa que gera senhas aleatórias de forma
+eficiente e segura. O meu objetivo principal é permitir que p usuário o tamanho da senha desejada e gerar uma senha que contenha números,
+letras (maiúsculas e minúsculas) e caracteres especiais de maneira aleatória. Após a geração da senha, o programa exibirá a senha para mim 
+e a salvará em um arquivo .txt dentro da pasta do projeto, para que eu possa consultá-la facilmente mais tarde.
+
+	O primeiro passo foi identificar e selecionar as bibliotecas apropriadas para a geração segura de senhas e manipulação de strings.
+	As bibliotecas que escolhi foram o secrets, projetado para gerar números e caracteres aleatórios de forma segura, e a string, que fornece 
+acesso a conjuntos de caracteres, como letras e dígitos.
+
+	Depois disso, estudei a documentação dessas bibliotecas para entender como utilizá-las de maneira eficaz. Consultei a documentação do secrets e a documentação do string.
+
+	Com a compreensão das bibliotecas, iniciei a implementação do programa. Desenvolvi a lógica para gerar a senha com base no tamanho que 
+o usuário definir e garanti que a senha incluísse uma combinação adequada de números, letras e caracteres especiais. Após a implementação inicial, 
+realizei testes para assegurar que a senha fosse gerada corretamente e que o tamanho especificado fosse respeitado. Além disso, melhorei a 
+comunicação com o usuário para tornar a interação mais intuitiva e amigável.
+
+	Também implementei a funcionalidade de criação e salvamento do arquivo, permitindo que a senha gerada fosse salva em um arquivo .txt. Finalmente,
+ adicionei tratamento de erros para lidar com entradas inválidas e outras possíveis exceções, garantindo que o programa funcionasse de forma robusta e confiável.
+
+	Com essas etapas organizadas, o desenvolvimento do meu projeto de geração de senhas aleatórias se tornou mais claro e eficiente.
+
+
+	Documentação do secrets	(https://docs.python.org/pt-br/3.6/library/secrets.html)
+	Documentação do string	(https://docs.python.org/pt-br/3.9/library/string.html)
