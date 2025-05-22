@@ -11,6 +11,7 @@ Este é um projeto em Python com interface gráfica feita com Tkinter, que gera 
 ✅ Salvamento automático da senha em arquivo .txt
 ✅ Tratamento de erros para entradas inválidas
 
+
 🛠 Tecnologias Utilizadas
 
 🐍 Python
@@ -22,6 +23,7 @@ Este é um projeto em Python com interface gráfica feita com Tkinter, que gera 
 🔡 string – Conjuntos prontos de caracteres
 
 📁 pathlib – Manipulação de caminhos
+
 
 🧠 Principais Aprendizados
 
@@ -36,6 +38,7 @@ Este é um projeto em Python com interface gráfica feita com Tkinter, que gera 
 ✅ Manipulação de caminhos com pathlib
 
 ✅ Uso do underscore (_) em loops para iteração sem variável nomeada
+
 
 ✍️ Autor
 
