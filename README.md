@@ -1,4 +1,5 @@
 🔐 Gerador de Senhas Aleatórias (GUI)
+
 Este é um projeto em Python com interface gráfica feita com Tkinter, que gera senhas aleatórias seguras. O usuário define o tamanho da senha, e o programa gera uma combinação de letras, números e caracteres especiais, exibe na tela e salva automaticamente em um arquivo .txt.
 
 📌 Funcionalidades
